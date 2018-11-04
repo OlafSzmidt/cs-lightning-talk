@@ -28,14 +28,14 @@ I enjoy programming =)
 
 ### Current system - and what's wrong with it?
 
-- It requires a lot of manual labour.
+- It requires a lot of <span class="gold"> manual labour</span>.
 - Laboratory system differs from lectures greatly.
 
 ---
 
 ### Definition of attendance
 
-Lecture attendance might be different than laboratory attendance.
+Lecture attendance might be <span class="gold">different</span> than laboratory attendance.
 
 ---
 
@@ -52,7 +52,7 @@ each student scans it with their student card.
 - Portable.
 - Easy to develop on.
 - Cheap.
-- NFC and WifI enabled, or compatible with external NFC and WiFI addons.
+- <span class="gold">NFC and Wifi</span> enabled, or compatible with external NFC and WiFI addons.
 
 +++
 
@@ -72,13 +72,16 @@ Incompatible with NFC and WifI
 ---
 
 Arduino Uno
+
 ![](assets/images/Uno.jpg)
 
 +++
 
 Seeed WiFi Shield v2
+
 ![](assets/images/Wifi.jpg)
 
 +++
 Seeed NFC Shield
+
 ![](assets/images/NFC.jpg)
