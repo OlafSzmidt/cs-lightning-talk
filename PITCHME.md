@@ -39,7 +39,7 @@ Lecture attendance might be different than laboratory attendance.
 
 ---
 
-### What's in my mind then?
+### What's on my mind...
 
 Handheld devices being passed around the lecture hall or laboratory, where
 each student scans it with their student card.
@@ -71,9 +71,14 @@ Incompatible with NFC and WifI
 
 ---
 
-Arduino Uno + Seeed NFC shield + Seeed WiFI shield
+Arduino Uno
 ![](assets/images/Uno.jpg)
-![](assets/images/Wifi.jpg)
-![](assets/images/NFC.jpg)
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
++++
+
+Seeed WiFi Shield v2
+![](assets/images/Wifi.jpg)
+
++++
+Seeed NFC Shield
+![](assets/images/NFC.jpg)
