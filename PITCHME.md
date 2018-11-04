@@ -12,8 +12,8 @@
 
 ### What's my project?
 
-- Attendance Taking System for Lectures and Laboratories
-- Replace the current method with a newly designed improved one.
+- **Attendance Taking System for Lectures and Laboratories**
+- A replacement for the current method with a newly designed improved one.
 
 ---
 
@@ -30,7 +30,9 @@
 - It requires a lot of manual labour.
 - Laboratory system differs from lectures greatly.
 
+---
 
+###
 
 
 
