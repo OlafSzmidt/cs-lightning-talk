@@ -5,7 +5,9 @@
 ### A little bit about myself
 
 My name is **Olaf Szmidt**
+
 I'm a **3rd** year CS UOM student
+
 I enjoy programming =)
 
 ---
@@ -13,14 +15,14 @@ I enjoy programming =)
 ### What's my project?
 
 - **Attendance Taking System for Lectures and Laboratories**
-  - A replacement for the current method with a newly designed improved one.
+- A replacement for the current method with a newly designed improved one.
 
 ---
 
 ### Importance of attendance management
 
 - Able to give support to individuals before it's too late.
-  - It can show correlation with students' <span class="gold"> educational success </span>
+- It can show correlation with students' <span class="gold"> educational success </span>
 
 ---
 
@@ -41,6 +43,8 @@ Lecture attendance might be different than laboratory attendance.
 
 Handheld devices being passed around the lecture hall or laboratory, where
 each student scans it with their student card.
+
+---
 
 ### What hardware do I need?
 
@@ -65,7 +69,7 @@ Too power hungry.
 Incompatible with NFC and WifI
 ![](assets/images/Mega.jpg)
 
-+++
+---
 
 Arduino Uno + Seeed NFC shield + Seeed WiFI shield
 ![](assets/images/Uno.jpg)
