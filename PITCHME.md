@@ -153,7 +153,7 @@ Note:
 - Easy to develop on.
 - <span class="gold"> Portable. </span>
 - Cheap.
-- <span class="gold">NFC and Wifi</span> enabled, or compatible with external NFC and WiFI addons.
+- <span class="gold">NFC and Wifi</span> enabled
 
 Note:
 - Bult in, or can be compatible with both at same time.
