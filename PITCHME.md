@@ -6,6 +6,20 @@
 
 My name is **Olaf Szmidt**
 
++++
+
+### A little bit about myself
+
+My name is **Olaf Szmidt**
+
+I'm a **3rd** year CS UOM student
+
++++
+
+### A little bit about myself
+
+My name is **Olaf Szmidt**
+
 I'm a **3rd** year CS UOM student
 
 I enjoy programming =)
@@ -85,3 +99,33 @@ Seeed WiFi Shield v2
 Seeed NFC Shield
 
 ![](assets/images/NFC.jpg)
+
+---
+
+### Software...
+
+<span class="gold"> Django </span> is my web framework of choice.
+
++++
+
+### Software...
+
+<span class="gold"> Django </span> is my web framework of choice.
+- Python, a language I'm already familiar with.
+
++++
+
+### Software...
+
+<span class="gold"> Django </span> is my web framework of choice.
+- Python, a language I'm already familiar with.
+- Rapid development
+
++++
+
+### Software...
+
+<span class="gold"> Django </span> is my web framework of choice.
+- Python, a language I'm already familiar with.
+- Rapid development
+- Good performance capability for the nature of my project (Memcached, MongoDB, etc.)
