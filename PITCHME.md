@@ -49,8 +49,8 @@ each student scans it with their student card.
 ### What hardware do I need?
 
 - Low <span class="gold"> energy </span> consuption.
-- Portable.
 - Easy to develop on.
+- <span class="gold"> Portable. </span>
 - Cheap.
 - <span class="gold">NFC and Wifi</span> enabled, or compatible with external NFC and WiFI addons.
 
